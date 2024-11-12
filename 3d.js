@@ -17,7 +17,7 @@ generateBtn.addEventListener("click",  async ()=>{
             "https://api-inference.huggingface.co/models/alvdansen/soft-focus-3d",
             {
                 headers: {
-                    Authorization: "Bearer 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",
+                    Authorization: "Bearer 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",
                     "Content-Type": "application/json",
                 },
                 method: "POST",
